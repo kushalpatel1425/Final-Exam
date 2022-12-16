@@ -1,0 +1,52 @@
+@media screen and (max-width:760px)
+{
+    main
+    {
+        order: 1;
+        width: 100%;
+    }
+
+    #figure-one img
+    {
+        width: 10.5em;
+    }
+    
+    #figure-two img
+    {
+        width: 12.6em;
+        margin: 0;
+    }
+    
+    aside
+    {
+        order: 2;
+        width: 100%
+    }
+    
+    #main-header h1
+    {
+        font-size: 36.9px;
+    }
+    
+    #main-header h2
+    {
+        font-size: 22.5px;
+    }
+
+    #main-content
+    {
+        display: block;
+    }
+    
+      
+    #main-nav ul
+    {
+        gap: 3em;
+    }
+    
+    p
+    {
+        font-size: 17.5px;
+    }
+  
+}
